@@ -1,3 +1,4 @@
+"use client";
 // React icons
 import { RiBarChartFill } from "react-icons/ri";
 import { RiAwardFill } from "react-icons/ri";
